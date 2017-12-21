@@ -1,0 +1,22 @@
+{
+  "name": "nightmare-electron-must-know",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/nightmare-electron-must-know.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wahengchang/nightmare-electron-must-know/issues"
+  },
+  "homepage": "https://github.com/wahengchang/nightmare-electron-must-know#readme",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
